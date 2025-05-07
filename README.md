@@ -39,7 +39,60 @@ A powerful, responsive, and fully customizable **product card** built for Framer
 
 Each text section is fully stylable via:
 
+
 ```ts
 fontFamily_title, fontSize_price, fontWeight_button, color_discount, ...
+
+Applies to: title, price, stock, button, quantity, discount, modal, tab, selector, and more.
+```
+
+---
+
+## 🧠 How to Use in Framer
+
+- Drag component into your canvas  
+- Set props in the right panel (text, colors, logic)  
+- Configure `onAddToCart` to trigger checkout or events  
+- Style modal or toggle layout as needed  
+- Preview & ship!
+
+---
+
+## 📦 Ideal For
+
+- Framer-based e-commerce landing pages  
+- MVPs and prototypes for DTC brands  
+- Showcasing multiple variants or SKUs  
+- Product launches with fast checkout
+
+---
+
+## 🔗 Live Preview & Repo
+
+- **Live Demo:** Coming Soon  
+- **Clone This Repo:** [github.com/your-username/EverCoolProductCard](https://github.com/your-username/EverCoolProductCard)
+
+---
+
+## 🧑‍💻 Built With
+
+- 🧩 Framer Motion  
+- ⚛️ React  
+- 🎨 Framer Property Controls  
+- 💻 Modern Component Architecture
+
+---
+
+## 🙌 Contribution
+Open to suggestions, issues, or feature requests.
+Fork it, build on it, and submit a PR if you improve it.
+
+---
+
+### 🚀 Need a Custom Framer Component or Website?
+
+I design beautiful, responsive websites and build advanced code components in Framer — tailored to your brand, product, or workflow.
+
+Let’s work together: [Reach out on Email](samuel02emmanuel02@gmail.com)
 
 
